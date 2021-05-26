@@ -21,7 +21,7 @@ allprojects {
         jcenter()
     }
 }
-// working fine
+// working fine  i am testing 
 task clean(type: Delete) {
     delete rootProject.buildDir
 }
